@@ -1,34 +1,67 @@
 {
-    "projects": [
+    "clubs": [
       {
         "id": 1,
-        "title": "Module 2 Project",
-        "description": "Module 2 project - Integrate a React app with backend."
+        "name": "Berghain",
+        "location": "Berlin",
+        "musicStyle": "electro, techno",
+        "googleMap": "",
+        "hint": "be unique, be brave",
+        "imageURL": "https://example.com/berghain.jpg"
       },
       {
         "id": 2,
-        "title": "Module 3 Project",
-        "description": "Create a full-stack application using MERN stack."
-      }
-    ],
-    "tasks": [
-      {
-        "id": 1,
-        "projectId": 1,
-        "title": "Task 1",
-        "description": "Use Vite to create a basic React app"
-      },
-      {
-        "id": 2,
-        "projectId": 1,
-        "title": "Task 2",
-        "description": "Install React Router and setup routes"
+        "name": "Kitkat",
+        "location": "Berlin",
+        "musicStyle": "electro, techno",
+        "googleMap": "",
+        "hint": "",
+        "imageURL": "https://example.com/kitkat.jpg"
       },
       {
         "id": 3,
-        "projectId": 2,
-        "title": "Task 3",
-        "description": "Create a form with 5 input fields"
+        "name": "Tresor",
+        "location": "Berlin",
+        "musicStyle": "electro, techno",
+        "googleMap": "",
+        "hint": "",
+        "imageURL": "https://example.com/tresor.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Insomnia",
+        "location": "Berlin",
+        "musicStyle": "electro, techno",
+        "googleMap": "",
+        "hint": "",
+        "imageURL": "https://example.com/insomnia.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Maxxim",
+        "location": "Berlin",
+        "musicStyle": "r&b, dancehall",
+        "googleMap": "",
+        "hint": "",
+        "imageURL": "https://example.com/maxxim.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Ma Baker Club",
+        "location": "Berlin",
+        "musicStyle": "r&b, hiphop",
+        "googleMap": "",
+        "hint": "",
+        "imageURL": "https://example.com/mabakerclub.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Ma Baker Club",
+        "location": "Berlin",
+        "musicStyle": "r&b, hiphop",
+        "googleMap": "",
+        "hint": "",
+        "imageURL": "https://example.com/mabakerclub.jpg"
       }
     ]
   }
