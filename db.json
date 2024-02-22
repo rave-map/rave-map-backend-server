@@ -7,7 +7,7 @@
         "musicStyle": "electro, techno",
         "googleMap": "",
         "hint": "be unique, be brave",
-        "imageURL": "./assets/berghain.jpeg"
+        "imageURL": "https://res.cloudinary.com/dkhryuccd/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1708603240/ravemap-static-images/berghain_ajjihd.jpg?_s=public-apps"
       },
       {
         "id": 2,
@@ -16,7 +16,7 @@
         "musicStyle": "electro, techno",
         "googleMap": "",
         "hint": "",
-        "imageURL": "./assets/kitkat.jpeg"
+        "imageURL": "https://res.cloudinary.com/dkhryuccd/image/upload/v1708603241/ravemap-static-images/kitkat_xjexpo.jpg"
       },
       {
         "id": 3,
