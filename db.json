@@ -25,7 +25,7 @@
         "musicStyle": "electro, techno",
         "googleMap": "",
         "hint": "",
-        "imageURL": "./assets/spindler klatt.jpeg"
+        "imageURL": "https://res.cloudinary.com/dkhryuccd/image/upload/v1708603240/ravemap-static-images/fisch_sucht_fahrrad_wfdwfq.jpg"
       },
       {
         "id": 4,
@@ -34,7 +34,7 @@
         "musicStyle": "electro, techno",
         "googleMap": "",
         "hint": "",
-        "imageURL": "./assets/insomnia.jpeg"
+        "imageURL": "https://res.cloudinary.com/dkhryuccd/image/upload/v1708603241/ravemap-static-images/insomnia_rioki7.jpg"
       },
       {
         "id": 5,
@@ -43,7 +43,7 @@
         "musicStyle": "r&b, dancehall",
         "googleMap": "",
         "hint": "",
-        "imageURL": "./assets/maxxim.jpeg"
+        "imageURL": "https://res.cloudinary.com/dkhryuccd/image/upload/v1708603242/ravemap-static-images/maxxim_ff9bcl.jpg"
       },
       {
         "id": 6,
@@ -52,7 +52,7 @@
         "musicStyle": "r&b, hiphop",
         "googleMap": "",
         "hint": "",
-        "imageURL": "./assets/soda club.jpeg"
+        "imageURL": "https://res.cloudinary.com/dkhryuccd/image/upload/v1708603245/ravemap-static-images/soda_club_yhlqb3.jpg"
       },
       {
         "id": 7,
@@ -61,8 +61,18 @@
         "musicStyle": "r&b, hiphop",
         "googleMap": "",
         "hint": "",
-        "imageURL": "./assets/weekend.jpeg"
+        "imageURL": "https://res.cloudinary.com/dkhryuccd/image/upload/v1708603248/ravemap-static-images/weekend_rhce8o.jpg"
       }
+      {
+        "id": 8,
+        "name": "Pirates",
+        "location": "Berlin",
+        "musicStyle": "r&b, hiphop",
+        "googleMap": "",
+        "hint": "",
+        "imageURL": "https://res.cloudinary.com/dkhryuccd/image/upload/v1708603245/ravemap-static-images/soda_club_yhlqb3.jpg"
+      }
+
     ]
   }
   
