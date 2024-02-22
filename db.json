@@ -7,7 +7,7 @@
         "musicStyle": "electro, techno",
         "googleMap": "",
         "hint": "be unique, be brave",
-        "imageURL": "https://example.com/berghain.jpg"
+        "imageURL": "./assets/berghain.jpeg"
       },
       {
         "id": 2,
@@ -16,16 +16,16 @@
         "musicStyle": "electro, techno",
         "googleMap": "",
         "hint": "",
-        "imageURL": "https://example.com/kitkat.jpg"
+        "imageURL": "./assets/kitkat.jpeg"
       },
       {
         "id": 3,
-        "name": "Tresor",
+        "name": "Spindler Klatt",
         "location": "Berlin",
         "musicStyle": "electro, techno",
         "googleMap": "",
         "hint": "",
-        "imageURL": "https://example.com/tresor.jpg"
+        "imageURL": "./assets/spindler klatt.jpeg"
       },
       {
         "id": 4,
@@ -34,7 +34,7 @@
         "musicStyle": "electro, techno",
         "googleMap": "",
         "hint": "",
-        "imageURL": "https://example.com/insomnia.jpg"
+        "imageURL": "./assets/insomnia.jpeg"
       },
       {
         "id": 5,
@@ -43,25 +43,25 @@
         "musicStyle": "r&b, dancehall",
         "googleMap": "",
         "hint": "",
-        "imageURL": "https://example.com/maxxim.jpg"
+        "imageURL": "./assets/maxxim.jpeg"
       },
       {
         "id": 6,
-        "name": "Ma Baker Club",
+        "name": "Soda Club",
         "location": "Berlin",
         "musicStyle": "r&b, hiphop",
         "googleMap": "",
         "hint": "",
-        "imageURL": "https://example.com/mabakerclub.jpg"
+        "imageURL": "./assets/soda club.jpeg"
       },
       {
         "id": 7,
-        "name": "Ma Baker Club",
+        "name": "Weekend Club",
         "location": "Berlin",
         "musicStyle": "r&b, hiphop",
         "googleMap": "",
         "hint": "",
-        "imageURL": "https://example.com/mabakerclub.jpg"
+        "imageURL": "./assets/weekend.jpeg"
       }
     ]
   }
